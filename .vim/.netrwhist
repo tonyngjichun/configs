@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/ssd/tony/codes/cnnimageretrieval-pytorch/cirtorch/datasets'
+let g:netrw_dirhist_2='/ssd/tony/codes/cnnimageretrieval-pytorch/cirtorch'
+let g:netrw_dirhist_3='/ssd/tony/codes/cnnimageretrieval-pytorch/cirtorch/networks'
+let g:netrw_dirhist_4='/ssd/tony/codes/cnnimageretrieval-pytorch/cirtorch/datasets'
+let g:netrw_dirhist_5='/ssd/tony/codes/cnnimageretrieval-pytorch/cirtorch/networks'
+let g:netrw_dirhist_6='/ssd/tony/codes/cnnimageretrieval-pytorch/cirtorch/layers'
+let g:netrw_dirhist_7='/home/tony/OneDrive/LargeScale'
+let g:netrw_dirhist_8='/home/tony/OneDrive/LargeScale/models'
+let g:netrw_dirhist_9='/home/tony'
